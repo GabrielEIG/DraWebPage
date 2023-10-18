@@ -1,0 +1,16 @@
+[
+  {
+    "title": "First post",
+    "date": "Nov 12",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+    "image": "https://pbs.twimg.com/media/Cf73E3UUsAECCz3?format=jpg&name=small",
+    "imageText": "Image Text"
+  },
+  {
+    "title": "Post title",
+    "date": "Nov 11",
+    "description": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+    "image": "https://scontent.fsdq2-1.fna.fbcdn.net/v/t31.18172-8/11958133_893460827385642_3161638275038115738_o.png?_nc_cat=110&ccb=1-7&_nc_sid=9267fe&_nc_ohc=xaqcOrdxCHkAX_lmg8I&_nc_ht=scontent.fsdq2-1.fna&oh=00_AfDwSu_pqYeHxk-7OrPEhaR6sc4amtaJgvua1ZaFVBMfaw&oe=654CF858",
+    "imageText": "Image Text"
+  }
+]
